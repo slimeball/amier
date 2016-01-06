@@ -1,0 +1,92 @@
+#cd{FLOAT: left; WIDTH: 598px; height:31; text-align:center;}
+
+#cd UL {
+
+	MARGIN: 0px; LIST-STYLE-TYPE: none;MARGIN: 16px 0px 0px 6px;
+
+}
+
+#cd LI {
+
+	FLOAT: left; WIDTH: 68px; COLOR: #939393;TEXT-ALIGN: center; border-right:1px #FFFFFF dashed;
+
+}
+
+#cd LI A {
+
+	DISPLAY: block; MARGIN-LEFT: auto; COLOR: #939393;MARGIN-RIGHT: auto; TEXT-DECORATION: none
+
+}
+
+#cd LI A:hover {
+
+	 color:#FF33CC;
+
+}
+
+
+
+BODY {
+
+	FONT-SIZE: 12px; COLOR: #939393; FONT-FAMILY: Arial
+
+}
+
+TD {
+
+	FONT-SIZE: 12px; COLOR: #939393; FONT-FAMILY: Arial
+
+}
+
+SELECT {
+
+	FONT-SIZE: 12px
+
+}
+
+INPUT {
+
+	FONT-SIZE: 12px;FONT-FAMILY:Arial
+
+}
+
+
+
+.AW:link {
+
+	COLOR: #939393; TEXT-DECORATION:underline
+
+}
+
+.AW:visited {
+
+	COLOR: #939393; TEXT-DECORATION:underline
+
+}
+
+.AW:hover {
+
+	COLOR: #FF6611; TEXT-DECORATION:underline
+
+}
+
+
+
+.yu:link {
+
+	COLOR: #000000;font-size:12px;TEXT-DECORATION:none
+
+}
+
+.yu:visited {
+
+	COLOR: #000000;font-size:12px;TEXT-DECORATION:none
+
+}
+
+.yu:hover {
+
+	COLOR: #000000;font-size:12px;TEXT-DECORATION:underline
+
+}
+
